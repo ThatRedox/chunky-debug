@@ -1,0 +1,8 @@
+{
+    "name": "ChunkyDebug",
+    "author": "ThatRedox",
+    "main": "dev.thatredox.chunky.debug.ChunkyDebug",
+    "version": "0.1.0",
+    "targetVersion": "2.5.0",
+    "description": "Developer tools for Chunky."
+}
